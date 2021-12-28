@@ -60,6 +60,7 @@ const Technologies = () => (
         </ListItem>
       </List>
     </SectionText>
+    <SectionDivider />
   </Section>
 );
 
